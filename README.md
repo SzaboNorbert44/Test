@@ -1,1 +1,2 @@
-# Test
+Szabo Norbert
+BME_VIK
