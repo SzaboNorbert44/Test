@@ -10,4 +10,4 @@ git remote add nev "link" - githubos repoval osszekotes
 git remote remove nev1    - githubos repoval szetkapcsolas
 git pull nev1 branch1     - githubos verzio letoltese
   --allow-unrelated-histories   - kiegeszites olyan fileokkal amik nem voltak a gepen
-  git push nev1 branch1   - geprol a commitok feltoltese a github repoba
+git push nev1 branch1   - geprol a commitok feltoltese a github repoba
