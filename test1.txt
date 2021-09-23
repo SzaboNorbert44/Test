@@ -1,0 +1,7 @@
+git init 			- 	git mappa inicializálása
+git status			-	mappa státusz lekérdezés
+git add				- 	"színpadhoz" hozzáadás
+git commit -m "..."		- 	"mentés, új verzió hozzáadása + comment
+git config --global user.email	-	felhasználó beállítása
+git log 			- 	kilistázza a commitok adatait
+:q!				-	kilepes az idegesito szovegszerkeztokbol
