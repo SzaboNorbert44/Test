@@ -1,7 +1,13 @@
-git init 			- 	git mappa inicializálása
-git status			-	mappa státusz lekérdezés
-git add				- 	"színpadhoz" hozzáadás
-git commit -m "..."		- 	"mentés, új verzió hozzáadása + comment
+git init 			            - git mappa inicializálása
+git status			          -	mappa státusz lekérdezés
+git add				            - "színpadhoz" hozzáadás
+git commit -m "..."		    - "mentés, új verzió hozzáadása + comment
 git config --global user.email	-	felhasználó beállítása
-git log 			- 	kilistázza a commitok adatait
-:q!				-	kilepes az idegesito szovegszerkeztokbol
+git log 			            -	kilistázza a commitok adatait
+:q!				                -	kilepes az idegesito szovegszerkeztokbol
+git checkout uj_branch    - valtas masik branchre
+git remote add nev "link" - githubos repoval osszekotes
+git remote remove nev1    - githubos repoval szetkapcsolas
+git pull nev1 branch1     - githubos verzio letoltese
+  --allow-unrelated-histories   - kiegeszites olyan fileokkal amik nem voltak a gepen
+  git push nev1 branch1   - geprol a commitok feltoltese a github repoba
